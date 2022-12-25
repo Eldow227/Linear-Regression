@@ -8,5 +8,6 @@ Tips.csv is very popular dataset which can be uploded using seaborn library. I d
 I hope to present my modeling skills by trying to create efficient model on this dataset. 
 
 In every file you will find code of course but also comments to present and explain my thinking and actions.
+If you want, you can always open these files in google colaboratory and see how it works.
 
 
