@@ -1,5 +1,5 @@
 
-##Tips
+## Tips
 
 Here I try to predict future tip using tips.csv dataset.
 You can find a few files here, which are parts of this analysis.
