@@ -1,13 +1,28 @@
 
-## Tips
+This mini-project uses the classic tips.csv dataset from Seaborn—yes, the one everyone’s seen before 😊—to build a model that predicts how much tip someone might leave. It’s a fun and slightly tricky dataset that makes you try a few different approaches and troubleshoot as you go.
 
-Here I try to predict future tip using tips.csv dataset.
-You can find a few files here, which are parts of this analysis.
+💡 What’s in the repo?
+You’ll find a few files here, each covering a different part of the analysis:
 
-Tips.csv is very popular dataset which can be uploded using seaborn library. I decided to choose it because it is very interesting dataset, and not the easiest one. You need to try many approaches here, and sometimes problems occur.
-I hope to present my modeling skills by trying to create efficient model on this dataset.
+The main code (Python/Jupyter Notebook style), where I explore, model, and comment my thought process.
 
-In every file you will find code of course but also comments to present and explain my thinking and actions.
-If you want, you can always open these files in google colaboratory and see how it works.
+The dataset itself (tips.csv), which is also easy to load directly via sns.load_dataset("tips")—it’s got 244 rows and 7 columns (like total bill, tip, sex, smoker, day, time, and party size) 
+seaborn.pydata.org
++9
+angela1c.com
++9
+angela1c.com
++9
+.
+
+🔍 What I Did
+Explored the data – Checked distributions, looked for trends (e.g., do bigger bills get bigger tips?).
+
+Tried different models – Tested everything from simple regression to more advanced methods to see what sticks.
+
+Cleaned and commented – Every step has my written reasoning so you can see why I made certain choices.
+
+Made it shareable – Everything’s ready to go in Google Colab. Just upload the notebook (and tips.csv if you like), run each cell, and play around.
+
 
 
